@@ -1,0 +1,5 @@
+split,model,R2,MAE (Wh),RMSE (Wh)
+Random 80/20,Linear regression,0.858,197.377,409.247
+Random 80/20,Random forest,0.86,187.989,405.67
+Chronological (test = 2022),Linear regression,0.87,216.101,427.109
+Chronological (test = 2022),Random forest,0.866,211.655,434.447

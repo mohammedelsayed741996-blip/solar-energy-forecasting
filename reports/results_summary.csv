@@ -1,0 +1,6 @@
+item,value
+Readings,"197,088"
+Period,2017-01 to 2022-08
+"Best model, random split (Random forest)","R² 0.860, MAE 188 Wh"
+"Best model, test year 2022 (Linear regression)","R² 0.870, MAE 216 Wh"
+Top feature,Sun Light Intensity (W/m2)
